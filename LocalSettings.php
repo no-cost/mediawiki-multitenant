@@ -128,7 +128,7 @@ wfLoadSkin('Vector');
 # End of automatically generated settings.
 # Add more configuration options below.
 
-require_once 'modules.php';
+require_once __DIR__ . '/modules.php';
 
 # article
 $wgArticlePath = '/$1';
