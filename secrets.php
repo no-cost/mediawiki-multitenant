@@ -1,3 +1,3 @@
 <?php
-#$mainDomain = '...'; # for mail
-#$wgSecretKey = '...';
+$mainDomain = '...'; # for mail
+$wgSecretKey = '...';

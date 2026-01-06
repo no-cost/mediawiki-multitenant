@@ -103,7 +103,7 @@ $wgCacheDirectory = '/tmp';
 # Changing this will log out all existing sessions.
 $wgAuthenticationTokenVersion = '1';
 
-require_once 'secrets.php';
+require_once __DIR__ . '/secrets.php';
 
 # Site upgrade key. Must be set to a string (default provided) to turn on the
 # web installer while LocalSettings.php is in place
