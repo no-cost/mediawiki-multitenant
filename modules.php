@@ -21,7 +21,7 @@ wfLoadExtension( 'PageImages' );
 wfLoadExtension( 'ParserFunctions' );
 wfLoadExtension( 'PdfHandler' );
 wfLoadExtension( 'SpamBlacklist' );
-wfLoadExtension( 'SyntaxHighlight' );
+wfLoadExtension( 'SyntaxHighlight_GeSHi' );
 wfLoadExtension( 'TemplateData' );
 wfLoadExtension( 'TemplateStyles' );
 wfLoadExtension( 'TextExtracts' );
