@@ -11,7 +11,7 @@
 # https://www.mediawiki.org/wiki/Manual:Configuration_settings
 
 # read json config
-$config = json_decode(file_get_contents('/etc/config.json'), true);
+$config = json_decode(file_get_contents(__DIR__ . '/etc/config.json'), true);
 
 # Protect against web entry
 if (!defined('MEDIAWIKI')) {
