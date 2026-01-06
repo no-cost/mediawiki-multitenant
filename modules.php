@@ -1,0 +1,36 @@
+<?php
+wfLoadExtension( 'AbuseFilter' );
+wfLoadExtension( 'CategoryTree' );
+wfLoadExtension( 'CheckUser' );
+wfLoadExtension( 'Cite' );
+wfLoadExtension( 'CiteThisPage' );
+wfLoadExtension( 'CodeEditor' );
+wfLoadExtension( 'ConfirmEdit' );
+wfLoadExtension( 'DiscussionTools' );
+wfLoadExtension( 'Echo' );
+wfLoadExtension( 'Gadgets' );
+wfLoadExtension( 'ImageMap' );
+wfLoadExtension( 'InputBox' );
+wfLoadExtension( 'Linter' );
+wfLoadExtension( 'LoginNotify' );
+wfLoadExtension( 'Math' );
+wfLoadExtension( 'MultimediaViewer' );
+wfLoadExtension( 'Nuke' );
+wfLoadExtension( 'OATHAuth' );
+wfLoadExtension( 'PageImages' );
+wfLoadExtension( 'ParserFunctions' );
+wfLoadExtension( 'PdfHandler' );
+wfLoadExtension( 'SpamBlacklist' );
+wfLoadExtension( 'SyntaxHighlight' );
+wfLoadExtension( 'TemplateData' );
+wfLoadExtension( 'TemplateStyles' );
+wfLoadExtension( 'TextExtracts' );
+wfLoadExtension( 'Thanks' );
+wfLoadExtension( 'TitleBlacklist' );
+wfLoadExtension( 'VisualEditor' );
+wfLoadExtension( 'WikiEditor' );
+
+wfLoadSkin( 'Citizen' );
+wfLoadSkin( 'MinervaNeue' );
+wfLoadSkin( 'Timeless' );
+wfLoadSkin( 'Vector' );
