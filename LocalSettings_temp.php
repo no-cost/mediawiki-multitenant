@@ -10,7 +10,7 @@ if (!defined('MEDIAWIKI')) {
 }
 
 # $wgDisableOutputCompression = true;
-# $wgShowExceptionDetails = true;
+$wgShowExceptionDetails = $config['debug'];
 
 $wgMetaNamespace = ucwords($config['tag'], '_');
 $wgSitename = str_replace($wgMetaNamespace, '_', ' ');
