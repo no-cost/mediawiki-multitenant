@@ -89,10 +89,15 @@ $wgUseInstantCommons = true;
 $wgPingback = false;
 
 # Site language code, should be one of the list in ./includes/languages/data/Names.php
-# TODO
 $wgLanguageCode = $mw['language'] ?? 'en';
+
 # Time zone
-$wgLocaltimezone = $mw['timezone'] ?? 'UTC';
+$wgLocaltimezone = 'UTC';
+
+# Hide powered by, if configured by admin
+if (isset($mw['hide_powered_by']) && $mw['hide_powered_by'] === true) {
+    unset($wgFooterIcons['poweredby']);
+}
 
 ## Set $wgCacheDirectory to a writable directory on the web server
 ## to make your wiki go slightly faster. The directory should not
