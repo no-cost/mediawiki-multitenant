@@ -94,9 +94,9 @@ $wgLanguageCode = $mw['language'] ?? 'en';
 # Time zone
 $wgLocaltimezone = 'UTC';
 
-# Hide powered by, if configured by admin
+# hide powered by, if configured by admin
 if (isset($mw['hide_powered_by']) && $mw['hide_powered_by'] === true) {
-    unset($wgFooterIcons['poweredby']);
+    $wgFooterIcons['poweredby'] = [];
 }
 
 ## Set $wgCacheDirectory to a writable directory on the web server
