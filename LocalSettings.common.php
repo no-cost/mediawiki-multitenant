@@ -11,6 +11,7 @@ if (!defined('MEDIAWIKI')) {
 
 # $wgDisableOutputCompression = true;
 $wgShowExceptionDetails = $config['debug'];
+$mw = $config['mediawiki'] ?? [];
 
 $wgMetaNamespace = ucwords($config['tag'], '_');
 $wgSitename = str_replace($wgMetaNamespace, '_', ' ');
@@ -30,10 +31,17 @@ $wgResourceBasePath = $wgScriptPath;
 
 ## The URL paths to the logo.  Make sure you change this from the default,
 ## or else you'll overwrite your logo when you upgrade!
-$wgLogos = [
-    '1x' => "$wgResourceBasePath/resources/assets/change-your-logo.svg",
-    'icon' => "$wgResourceBasePath/resources/assets/change-your-logo-icon.svg",
-];
+if (!empty($mw['logo'])) {
+    $wgLogos = ['1x' => $mw['logo'], 'icon' => $mw['logo']];
+} else {
+    $wgLogos = [
+        '1x' => "$wgResourceBasePath/resources/assets/change-your-logo.svg",
+        'icon' => "$wgResourceBasePath/resources/assets/change-your-logo-icon.svg",
+    ];
+}
+if (!empty($mw['favicon'])) {
+    $wgFavicon = $mw['favicon'];
+}
 
 ## UPO means: this is also a user preference option
 
@@ -81,10 +89,10 @@ $wgUseInstantCommons = true;
 $wgPingback = false;
 
 # Site language code, should be one of the list in ./includes/languages/data/Names.php
-$wgLanguageCode = 'en';
-
+# TODO
+$wgLanguageCode = $mw['language'] ?? 'en';
 # Time zone
-$wgLocaltimezone = 'UTC';
+$wgLocaltimezone = $mw['timezone'] ?? 'UTC';
 
 ## Set $wgCacheDirectory to a writable directory on the web server
 ## to make your wiki go slightly faster. The directory should not
@@ -113,7 +121,7 @@ $wgDiff3 = '/usr/bin/diff3';
 
 ## Default skin: you can change the default skin. Use the internal symbolic
 ## names, e.g. 'vector' or 'monobook':
-$wgDefaultSkin = "vector-2022";
+$wgDefaultSkin = $mw['skin'] ?? 'vector-2022';
 wfLoadSkin('Vector');
 
 # End of automatically generated settings.
