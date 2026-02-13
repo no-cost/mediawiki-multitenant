@@ -94,11 +94,6 @@ $wgLanguageCode = $mw['language'] ?? 'en';
 # Time zone
 $wgLocaltimezone = 'UTC';
 
-# hide powered by, if configured by admin
-if (isset($mw['hide_powered_by']) && $mw['hide_powered_by'] === true) {
-    $wgFooterIcons['poweredby'] = [];
-}
-
 ## Set $wgCacheDirectory to a writable directory on the web server
 ## to make your wiki go slightly faster. The directory should not
 ## be publicly accessible from the web.
@@ -149,3 +144,8 @@ $wgSMTP = [
     'port'     => 25,
     'auth'     => false,
 ];
+
+# hide powered by, if configured by admin
+if (!empty($mw['hide_powered_by'])) {
+    $wgFooterIcons['poweredby']['mediawiki'] = false;
+}
