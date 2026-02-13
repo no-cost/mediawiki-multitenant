@@ -146,6 +146,6 @@ $wgSMTP = [
 ];
 
 # hide powered by, if configured by admin
-if (!empty($mw['hide_powered_by'])) {
+if (!empty($mw['hide_powered_by_mw'])) {
     $wgFooterIcons['poweredby']['mediawiki'] = false;
 }
