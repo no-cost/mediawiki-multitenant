@@ -1,0 +1,46 @@
+{
+	"name": "DrawioEditor",
+	"version": "1.0",
+	"author": [
+		"Markus Gebert"
+	],
+	"url": "https://github.com/mgeb/mediawiki-drawio-editor",
+	"description": "draw.io flow chart creation and inline editing",
+	"license-name": "MIT",
+	"type": "parserhook",
+	"requires": {
+		"MediaWiki": ">= 1.45"
+	},
+	"AutoloadClasses": {
+		"DrawioEditor": "DrawioEditor.php"
+	},
+	"ExtensionMessagesFiles": {
+		"DrawioEditor": "DrawioEditor.i18n.php"
+	},
+	"Hooks": {
+		"ParserFirstCallInit": "DrawioEditor::onParserSetup",
+		"OutputPageParserOutput": "DrawioEditor::onOutputPageParserOutput"
+	},
+	"ResourceModules": {
+		"ext.drawioeditor": {
+			"scripts": "ext.drawioeditor.js",
+			"styles": "ext.drawioeditor.css",
+			"dependencies": [
+				"jquery.ui"
+			],
+			"localBasePath": "resources",
+			"remoteExtPath": "DrawioEditor/resources"
+		}
+	},
+	"config": {
+		"DrawioEditorImageType": {
+			"value": "svg",
+			"description": "Default image type for drawio charts (svg or png)"
+		},
+		"DrawioEditorImageInteractive": {
+			"value": false,
+			"description": "Whether drawio charts are interactive by default"
+		}
+	},
+	"manifest_version": 2
+}
