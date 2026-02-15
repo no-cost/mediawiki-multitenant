@@ -11,6 +11,9 @@ if (!defined('MEDIAWIKI')) {
 
 # $wgDisableOutputCompression = true;
 $wgShowExceptionDetails = $config['debug'];
+if ($config['debug']) {
+    $wgDebugLogFile = '/logs/mw-debug.log';
+}
 $mw = $config['mediawiki'] ?? [];
 
 $wgMetaNamespace = ucwords($config['tag'], '_');
