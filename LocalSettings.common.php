@@ -152,3 +152,12 @@ $wgSMTP = [
 if (!empty($mw['hide_powered_by_mw'])) {
     $wgFooterIcons['poweredby']['mediawiki'] = false;
 }
+
+# no-cost footer
+$wgHooks['SkinAfterBottomScripts'][] = function ($skin, &$text) use ($config) {
+    $donatedAmount = $config['donated_amount'] ?? 0;
+    if ($donatedAmount < 7.0) {
+        $text .= '<p style="text-align:center;padding:8px 0;margin:0;font-size:13px;color:#666;">Powered by <a href="https://no-cost.site" target="_blank" rel="noopener" style="color:#4D698E;">no-cost.site</a></p>';
+    }
+    return true;
+};
