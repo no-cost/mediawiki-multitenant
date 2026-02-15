@@ -1,28 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => '__root__',
-        'pretty_version' => 'dev-master',
-        'version' => 'dev-master',
-        'reference' => '82a4a17d3b71358f0311de56699a66d94ce60ef0',
-        'type' => 'library',
-        'install_path' => __DIR__ . '/../',
+        'name' => 'mediawiki/core',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '82508861c5360db9b0ee5b99259c97ed27804992',
+        'type' => 'mediawiki-core',
+        'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => false,
     ),
     'versions' => array(
-        '__root__' => array(
-            'pretty_version' => 'dev-master',
-            'version' => 'dev-master',
-            'reference' => '82a4a17d3b71358f0311de56699a66d94ce60ef0',
-            'type' => 'library',
-            'install_path' => __DIR__ . '/../',
-            'aliases' => array(),
-            'dev_requirement' => false,
-        ),
         'bacon/bacon-qr-code' => array(
-            'pretty_version' => 'v3.0.1',
-            'version' => '3.0.1.0',
-            'reference' => 'f9cc1f52b5a463062251d666761178dbdb6b544f',
+            'pretty_version' => 'v3.0.3',
+            'version' => '3.0.3.0',
+            'reference' => '36a1cb2b81493fa5b82e50bf8068bf84d1542563',
             'type' => 'library',
             'install_path' => __DIR__ . '/../bacon/bacon-qr-code',
             'aliases' => array(),
@@ -34,6 +25,15 @@
             'reference' => '2e82dab3baa008e24a505649b0d583c31d31e894',
             'type' => 'library',
             'install_path' => __DIR__ . '/../christian-riesen/base32',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'composer/installers' => array(
+            'pretty_version' => 'v2.3.0',
+            'version' => '2.3.0.0',
+            'reference' => '12fb2dfe5e16183de69e784a7b84046c43d97e8e',
+            'type' => 'composer-plugin',
+            'install_path' => __DIR__ . '/./installers',
             'aliases' => array(),
             'dev_requirement' => false,
         ),
@@ -109,6 +109,15 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
+        'james-heinrich/getid3' => array(
+            'pretty_version' => 'v1.9.24',
+            'version' => '1.9.24.0',
+            'reference' => '1e11b9b6eb468b522fe604a42a9fdc8ee759bf8a',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../james-heinrich/getid3',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
         'justinrainbow/json-schema' => array(
             'pretty_version' => '5.3.0',
             'version' => '5.3.0.0',
@@ -125,10 +134,13 @@
             ),
         ),
         'lcobucci/clock' => array(
+            'pretty_version' => '2.2.0',
+            'version' => '2.2.0.0',
+            'reference' => 'fb533e093fd61321bfcbac08b131ce805fe183d3',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../lcobucci/clock',
+            'aliases' => array(),
             'dev_requirement' => false,
-            'replaced' => array(
-                0 => '*',
-            ),
         ),
         'lcobucci/jwt' => array(
             'pretty_version' => '4.1.5',
@@ -157,6 +169,15 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
+        'mediawiki/core' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '82508861c5360db9b0ee5b99259c97ed27804992',
+            'type' => 'mediawiki-core',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
         'monolog/monolog' => array(
             'pretty_version' => '2.9.3',
             'version' => '2.9.3.0',
@@ -166,12 +187,39 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
-        'okvpn/clock-lts' => array(
-            'pretty_version' => '1.0.0',
-            'version' => '1.0.0.0',
-            'reference' => '5e7dc00d23a7d65e8ed2b0ff7a4dcf7860c05a14',
+        'mwstake/mediawiki-component-generictaghandler' => array(
+            'pretty_version' => '1.0.4',
+            'version' => '1.0.4.0',
+            'reference' => 'ce78e6df828e2f90e03140dc7be9e223e6c58c3c',
             'type' => 'library',
-            'install_path' => __DIR__ . '/../okvpn/clock-lts',
+            'install_path' => __DIR__ . '/../mwstake/mediawiki-component-generictaghandler',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'mwstake/mediawiki-component-inputprocessor' => array(
+            'pretty_version' => '1.1.4',
+            'version' => '1.1.4.0',
+            'reference' => '12874dc38dc6714593ac5e232a11ed2c0c35a8a0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../mwstake/mediawiki-component-inputprocessor',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'mwstake/mediawiki-component-manifestregistry' => array(
+            'pretty_version' => '3.0.1',
+            'version' => '3.0.1.0',
+            'reference' => '6212b6f0221c9d7f8b5d9f48d0f5ac910cc2c72a',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../mwstake/mediawiki-component-manifestregistry',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'mwstake/mediawiki-componentloader' => array(
+            'pretty_version' => '1.0.1',
+            'version' => '1.0.1.0',
+            'reference' => '9884a1bcec50095748b68e7328f13baa969b35aa',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../mwstake/mediawiki-componentloader',
             'aliases' => array(),
             'dev_requirement' => false,
         ),
@@ -183,12 +231,6 @@
             'install_path' => __DIR__ . '/../oojs/oojs-ui',
             'aliases' => array(),
             'dev_requirement' => false,
-        ),
-        'paragonie/random_compat' => array(
-            'dev_requirement' => false,
-            'replaced' => array(
-                0 => '9.99.99',
-            ),
         ),
         'pear/console_getopt' => array(
             'pretty_version' => 'v1.4.3',
@@ -245,9 +287,9 @@
             'dev_requirement' => false,
         ),
         'pear/pear-core-minimal' => array(
-            'pretty_version' => 'v1.10.16',
-            'version' => '1.10.16.0',
-            'reference' => 'c0f51b45f50683bf5bbf558036854ebc9b54d033',
+            'pretty_version' => 'v1.10.18',
+            'version' => '1.10.18.0',
+            'reference' => 'c7b55789d01de0ce090d289b73f1bbd6a2f113b1',
             'type' => 'library',
             'install_path' => __DIR__ . '/../pear/pear-core-minimal',
             'aliases' => array(),
@@ -274,8 +316,7 @@
         'psr/clock-implementation' => array(
             'dev_requirement' => false,
             'provided' => array(
-                0 => '1.0',
-                1 => '1.0.0',
+                0 => '1.0.0',
             ),
         ),
         'psr/container' => array(
@@ -365,8 +406,17 @@
         'rsky/pear-core-min' => array(
             'dev_requirement' => false,
             'replaced' => array(
-                0 => 'v1.10.16',
+                0 => 'v1.10.18',
             ),
+        ),
+        'stella-maris/clock' => array(
+            'pretty_version' => '0.1.7',
+            'version' => '0.1.7.0',
+            'reference' => 'fa23ce16019289a18bb3446fdecd45befcdd94f8',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../stella-maris/clock',
+            'aliases' => array(),
+            'dev_requirement' => false,
         ),
         'symfony/deprecation-contracts' => array(
             'pretty_version' => 'v3.6.0',
@@ -401,7 +451,13 @@
                 0 => '1.99',
             ),
         ),
-        'symfony/polyfill-php73' => array(
+        'symfony/polyfill-php80' => array(
+            'dev_requirement' => false,
+            'replaced' => array(
+                0 => '1.99',
+            ),
+        ),
+        'symfony/polyfill-php81' => array(
             'dev_requirement' => false,
             'replaced' => array(
                 0 => '1.99',
@@ -442,12 +498,6 @@
             'install_path' => __DIR__ . '/../symfony/polyfill-php85',
             'aliases' => array(),
             'dev_requirement' => false,
-        ),
-        'symfony/polyfill-uuid' => array(
-            'dev_requirement' => false,
-            'replaced' => array(
-                0 => '1.99',
-            ),
         ),
         'symfony/yaml' => array(
             'pretty_version' => 'v6.4.25',
@@ -783,9 +833,9 @@
             'dev_requirement' => false,
         ),
         'wikimedia/zest-css' => array(
-            'pretty_version' => '4.1.0',
-            'version' => '4.1.0.0',
-            'reference' => '8e3c72cbfb4a2d449031b0bf97dd54966f1c029d',
+            'pretty_version' => '4.1.1',
+            'version' => '4.1.1.0',
+            'reference' => '771f7944c293eaf5e10ab87420ae3419d8356edc',
             'type' => 'library',
             'install_path' => __DIR__ . '/../wikimedia/zest-css',
             'aliases' => array(),

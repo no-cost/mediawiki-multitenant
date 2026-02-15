@@ -215,6 +215,9 @@
 			"wikimedia/composer-merge-plugin": true,
 			"composer/installers": true,
 			"dealerdirect/phpcodesniffer-composer-installer": true
+		},
+		"audit": {
+			"ignore": ["PKSA-z3gr-8qht-p93v"]
 		}
 	},
 	"extra": {
