@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Irwangatot",
+			"Kandar"
+		]
+	},
+	"quiz-added-points": "Peunteun ditambahan pikeun jawaban nu bener",
+	"quiz-cutoff-points": "Peunteun dikurangan pikeun jawaban nu salah",
+	"quiz-legend-correct": "Bener",
+	"quiz-legend-incorrect": "Salah",
+	"quiz-legend-unanswered": "Teu dijawab",
+	"quiz-legend-error": "Salah rumpaka",
+	"quiz-correction": "Kirim",
+	"quiz-score": "Peunteun anjeun $1 / $2",
+	"quiz-points": "$1 | {{PLURAL:$2|1 poin|$2 poin}}",
+	"quiz-reset": "Rését"
+}

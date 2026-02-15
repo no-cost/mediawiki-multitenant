@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Avjoska",
+			"Pikne"
+		]
+	},
+	"quiz-desc": "Võimaldab küsitlusi korraldada.",
+	"quiz-added-points": "{{PLURAL:$1|Lisapunkt|Lisapunkte}} õige vastuse eest:",
+	"quiz-cutoff-points": "{{PLURAL:$1|Punkt|Punkte}} vale vastuse eest:",
+	"quiz-ignore-coef": "Eira küsimuste kaale:",
+	"quiz-shuffle": "Sega küsimused",
+	"quiz-legend-correct": "Õige",
+	"quiz-legend-incorrect": "Vale",
+	"quiz-legend-unanswered": "Vastamata",
+	"quiz-legend-error": "Süntaksiviga",
+	"quiz-correction": "Saada",
+	"quiz-score": "Punktid: $1 / $2",
+	"quiz-points": "$1 | {{PLURAL:$2|1 punkt|$2 punkti}}",
+	"quiz-reset": "Lähtesta"
+}

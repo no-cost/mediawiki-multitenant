@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Assele",
+			"Haqmar",
+			"З. ӘЙЛЕ"
+		]
+	},
+	"quiz-desc": "Һораулыҡ булдырырға мөмкинлек бирә",
+	"quiz-added-points": "Дөрөҫ яуап өсөн {{PLURAL:$1|1=мәрәй}} өҫтәлде",
+	"quiz-cutoff-points": "Яңылыш яуап өсөн {{PLURAL:$1|1=мәрәй}}",
+	"quiz-ignore-coef": "Һорау коэффициенттарын иғтибарға алмаҫҡа:",
+	"quiz-shuffle": "Һорауҙарҙы аралаштырырға",
+	"quiz-legend-correct": "Дөрөҫ",
+	"quiz-legend-incorrect": "Хаталы",
+	"quiz-legend-unanswered": "Яуап булманы",
+	"quiz-legend-error": "Синтаксик хата",
+	"quiz-correction": "Ебәрергә",
+	"quiz-score": "Һөҙөмтәгеҙ: $1 / $2",
+	"quiz-points": "$1 | {{PLURAL:$2|1=1 мәрәй|$2 мәрәй}}",
+	"quiz-reset": "Алып ташларға"
+}

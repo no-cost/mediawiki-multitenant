@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"S.Örvarr.S",
+			"Snævar",
+			"Stefán Örvar Sigmundsson"
+		]
+	},
+	"quiz-desc": "Heimilar gerð skyndiprófa",
+	"quiz-added-points": "{{PLURAL:$1|Stig}} fyrir rétt svar:",
+	"quiz-cutoff-points": "{{PLURAL:$1|Stig dregið|Stig dregin}} frá fyrir rangt svar:",
+	"quiz-shuffle": "Stokka svörin",
+	"quiz-legend-correct": "Rétt",
+	"quiz-legend-incorrect": "Röng",
+	"quiz-legend-unanswered": "Ósvarað",
+	"quiz-legend-error": "Málskipanarvilla",
+	"quiz-correction": "Senda",
+	"quiz-score": "Stigafjöldinn þinn er $1 / $2",
+	"quiz-points": "$1 | {{PLURAL:$2|1 stig|$2 stig}}",
+	"quiz-reset": "Endurstilla"
+}

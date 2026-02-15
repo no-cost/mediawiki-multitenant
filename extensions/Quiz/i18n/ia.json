@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"quiz-desc": "Permitte le creation de quizes",
+	"quiz-added-points": "{{PLURAL:$1|Puncto|Punctos}} addite pro cata responsa correcte:",
+	"quiz-cutoff-points": "{{PLURAL:$1|Puncto|Punctos}} pro un responsa incorrecte:",
+	"quiz-ignore-coef": "Ignorar le coefficientes del questiones:",
+	"quiz-shuffle": "Miscer questiones",
+	"quiz-legend-correct": "Juste",
+	"quiz-legend-incorrect": "False",
+	"quiz-legend-unanswered": "Non respondite",
+	"quiz-legend-error": "Error de syntaxe",
+	"quiz-correction": "Submitter",
+	"quiz-score": "Punctos: $1 / $2",
+	"quiz-points": "$1 | {{PLURAL:$2|1 puncto|$2 punctos}}",
+	"quiz-reset": "Reinitialisar"
+}

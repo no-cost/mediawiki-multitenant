@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Louis-Rémi Babe <lrbabe@gmail.com>"
+		]
+	},
+	"quiz-desc": "Allows creation of quizzes",
+	"quiz-added-points": "{{PLURAL:$1|Point|Points}} added for a correct answer:",
+	"quiz-cutoff-points": "{{PLURAL:$1|Point|Points}} for an incorrect answer:",
+	"quiz-ignore-coef": "Ignore the questions' coefficients:",
+	"quiz-shuffle": "Shuffle questions",
+	"quiz-legend-correct": "Correct",
+	"quiz-legend-incorrect": "Incorrect",
+	"quiz-legend-unanswered": "Not answered",
+	"quiz-legend-error": "Syntax error",
+	"quiz-correction": "Submit",
+	"quiz-score": "Your score is $1 / $2",
+	"quiz-points": "$1 | {{PLURAL:$2|1 point|$2 points}}",
+	"quiz-reset": "Reset"
+}

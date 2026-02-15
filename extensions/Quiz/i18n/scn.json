@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ajeje Brazorf",
+			"Aushulz",
+			"Sarvaturi"
+		]
+	},
+	"quiz-legend-correct": "Giustu",
+	"quiz-legend-incorrect": "Sbagghiatu",
+	"quiz-correction": "Manna"
+}

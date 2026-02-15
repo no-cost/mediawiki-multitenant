@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16",
+			"BrokenArrow",
+			"Darth Kule"
+		]
+	},
+	"quiz-desc": "Consente di creare dei quiz",
+	"quiz-added-points": "{{PLURAL:$1|Punto aggiunto|Punti aggiunti}} per ogni risposta corretta:",
+	"quiz-cutoff-points": "{{PLURAL:$1|Punto sottratto|Punti sottratti}} per ogni risposta non corretta:",
+	"quiz-ignore-coef": "Ignora i coefficienti di domanda:",
+	"quiz-shuffle": "Mescola le domande",
+	"quiz-legend-correct": "Giusto",
+	"quiz-legend-incorrect": "Sbagliato",
+	"quiz-legend-unanswered": "Nessuna risposta",
+	"quiz-legend-error": "Errore di sintassi",
+	"quiz-correction": "Invia",
+	"quiz-score": "Il tuo punteggio è $1 / $2",
+	"quiz-points": "$1 | {{PLURAL:$2|1 punto|$2 punti}}",
+	"quiz-reset": "Reimposta"
+}

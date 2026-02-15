@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lam-ang"
+		]
+	},
+	"quiz-desc": "Agpalubos ti agramid kadagiti saludsod",
+	"quiz-added-points": "{{PLURAL:$1|Puntos|Pun-puntos}} ti mainayon iti pudno a sungbat",
+	"quiz-cutoff-points": "{{PLURAL:$1|Puntos|Pun-puntos}} para iti di umisu a sungbat",
+	"quiz-ignore-coef": "Saan nga ikaskaso dagiti coefficient ti salusod",
+	"quiz-shuffle": "Yakar-akaren dagiti saludsod",
+	"quiz-legend-correct": "Umisu",
+	"quiz-legend-incorrect": "Di umisu",
+	"quiz-legend-unanswered": "Saan a nasungbatan",
+	"quiz-legend-error": "Biddut ti gramatika",
+	"quiz-correction": "Ited",
+	"quiz-score": "Ti iskor mo ket $1 / $2",
+	"quiz-points": "$1 | {{PLURAL:$2|1 puntos|$2 pun-puntos}}",
+	"quiz-reset": "Isubli"
+}

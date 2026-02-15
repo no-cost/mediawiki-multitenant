@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dani",
+			"KossuthRad",
+			"Tacsipacsi",
+			"Terik"
+		]
+	},
+	"quiz-desc": "Lehetővé teszi kvízkérdések létrehozását",
+	"quiz-added-points": "Hozzáadott {{PLURAL:$1|pont|pontok}} a helyes válaszokért:",
+	"quiz-cutoff-points": "Levont {{PLURAL:$1|pont|pontok}} a helytelen válaszokért:",
+	"quiz-ignore-coef": "A kérdések együtthatóinak figyelmen kívül hagyása:",
+	"quiz-shuffle": "Kérdések összekeverése",
+	"quiz-legend-correct": "Helyes",
+	"quiz-legend-incorrect": "Helytelen",
+	"quiz-legend-unanswered": "Nincs válasz",
+	"quiz-legend-error": "Szintaktikai hiba",
+	"quiz-correction": "Elküldés",
+	"quiz-score": "A pontszámod: $1 / $2",
+	"quiz-points": "$1 | $2 pont",
+	"quiz-reset": "Újraindít"
+}

@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amikeco"
+		]
+	},
+	"quiz-legend-correct": "Раст",
+	"quiz-legend-incorrect": "Рæдыд",
+	"quiz-legend-error": "Синтаксисы рæдыд"
+}

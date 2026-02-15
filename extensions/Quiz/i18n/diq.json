@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aspar",
+			"Gırd",
+			"Mirzali",
+			"Orbot707"
+		]
+	},
+	"quiz-desc": "desturê vıraştışê quizi dano",
+	"quiz-added-points": "Seba {{PLURAL:$1|Puan|Puana}} dekerdışi cewabo raştay:",
+	"quiz-cutoff-points": "Seba {{PLURAL:$1|Puan|Puani}} cewabo şaşo:",
+	"quiz-ignore-coef": "Kat amarê persa peygoş kerê",
+	"quiz-shuffle": "persan têmiyan ker.",
+	"quiz-legend-correct": "raşt",
+	"quiz-legend-incorrect": "şaş",
+	"quiz-legend-unanswered": "cewab cı nêdiya",
+	"quiz-legend-error": "Xetaya rêza qıseyan",
+	"quiz-correction": "Bırışe",
+	"quiz-score": "Skorê şıma $1 / $2",
+	"quiz-points": "$1 | {{PLURAL:$2|1 puan|$2 puan}}",
+	"quiz-reset": "Raçarne"
+}

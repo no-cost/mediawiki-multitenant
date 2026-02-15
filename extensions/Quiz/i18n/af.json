@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Naudefj",
+			"පසිඳු කාවින්ද"
+		]
+	},
+	"quiz-desc": "Maak dit moontlik om toetse te skep.",
+	"quiz-added-points": "{{PLURAL:$1|Punt|Punte}} bygevoeg vir 'n korrekte antwoord",
+	"quiz-cutoff-points": "{{PLURAL:$1|Punt|Punte}} afgetrek vir 'n verkeerde antwoord",
+	"quiz-ignore-coef": "Ignoreer die vrae 'koëffisiënte",
+	"quiz-shuffle": "Skommel vrae",
+	"quiz-legend-correct": "Reg",
+	"quiz-legend-incorrect": "Verkeerd",
+	"quiz-legend-unanswered": "Nie geantwoord",
+	"quiz-legend-error": "Sintaksfout",
+	"quiz-correction": "Verbetering",
+	"quiz-score": "U punte is $1 / $2",
+	"quiz-points": "$1 | {{PLURAL:$2|1 punt|$2 punte}}",
+	"quiz-reset": "Herstel"
+}

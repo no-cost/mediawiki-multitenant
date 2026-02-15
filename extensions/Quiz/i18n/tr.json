@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"BaRaN6161 TURK",
+			"Erkan Yilmaz",
+			"Joseph",
+			"MuratTheTurkish",
+			"Runningfridgesrule",
+			"SaldırganSincap"
+		]
+	},
+	"quiz-desc": "Sınav oluşturulmasına izin verir",
+	"quiz-added-points": "Doğru cevap için {{PLURAL:$1|puan|puanlar}} eklendi:",
+	"quiz-cutoff-points": "Yanlış cevap için {{PLURAL:$1|puan|puanlar}}:",
+	"quiz-ignore-coef": "Soruların katsayısını ihmal et:",
+	"quiz-shuffle": "Soruları karıştır",
+	"quiz-legend-correct": "Doğru",
+	"quiz-legend-incorrect": "Yanlış",
+	"quiz-legend-unanswered": "Cevaplandırılmadı",
+	"quiz-legend-error": "Sözdizim hatası",
+	"quiz-correction": "Gönder",
+	"quiz-score": "Skorunuz $1 / $2",
+	"quiz-points": "$1 | {{PLURAL:$2|1 puan|$2 puan}}",
+	"quiz-reset": "Sıfırla"
+}

@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Shubha"
+		]
+	},
+	"quiz-desc": "रसप्रशनानां सज्जीकरणे सहकरोति",
+	"quiz-added-points": "शुद्धोत्तराय {{PLURAL:$1|अङ्कः|अङ्काः}} दत्ताः",
+	"quiz-cutoff-points": "अशुद्धोत्तराय {{PLURAL:$1|अङ्कः|अङ्काः}}दत्ताः",
+	"quiz-ignore-coef": "प्रश्नस्य गुणकः निर्लक्ष्यताम्",
+	"quiz-shuffle": "प्रश्नान् इतस्ततः करोतु",
+	"quiz-legend-correct": "शुद्धम्",
+	"quiz-legend-incorrect": "अशुद्धम्",
+	"quiz-legend-unanswered": "उत्तरं न प्राप्तम्",
+	"quiz-legend-error": "समवायदोषः",
+	"quiz-correction": "उपस्थाप्यताम्",
+	"quiz-score": "भवतः अङ्काः $1 / $2",
+	"quiz-points": "$1 | {{PLURAL:$2|1 अङ्कः|$2 अङ्काः}}",
+	"quiz-reset": "पुनर्स्थापयतु"
+}

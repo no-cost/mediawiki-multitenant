@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aefgh39622",
+			"Geonuch",
+			"Mopza",
+			"Passawuth"
+		]
+	},
+	"quiz-desc": "อนุญาตการสร้างแบบทดสอบ",
+	"quiz-added-points": "{{PLURAL:$1|คะแนน|}}ที่เพิ่มสำหรับคำตอบที่ถูกต้อง:",
+	"quiz-cutoff-points": "{{PLURAL:$1|คะแนน}}สำหรับคำตอบที่ไม่ถูกต้อง:",
+	"quiz-ignore-coef": "ละเว้นค่าสัมประสิทธิ์ของคำถาม:",
+	"quiz-shuffle": "สุ่มคำถาม",
+	"quiz-legend-correct": "ถูกต้อง",
+	"quiz-legend-incorrect": "ผิด",
+	"quiz-legend-unanswered": "ไม่ได้ตอบ",
+	"quiz-legend-error": "ข้อผิดพลาดไวยากรณ์",
+	"quiz-correction": "ยืนยัน",
+	"quiz-score": "คุณได้คะแนน $1 จาก $2 คะแนน",
+	"quiz-points": "$1 | $2 คะแนน",
+	"quiz-reset": "ตั้งค่าใหม่"
+}

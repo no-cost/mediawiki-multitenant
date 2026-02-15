@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dalibor Bosits",
+			"Dnik",
+			"Ponor",
+			"Roberta F.",
+			"SpeedyGonsales"
+		]
+	},
+	"quiz-desc": "Dozvoljava kreiranje kvizova",
+	"quiz-added-points": "{{PLURAL:$1|Bod|Bodovi}} za točan odgovor",
+	"quiz-cutoff-points": "{{PLURAL:$1|Bod|Bodovi}} za netočan odgovor",
+	"quiz-ignore-coef": "Ignoriraj težinske koeficijente pitanja",
+	"quiz-shuffle": "Promiješaj pitanja",
+	"quiz-legend-correct": "Točno",
+	"quiz-legend-incorrect": "Netočno",
+	"quiz-legend-unanswered": "Neodgovoreno",
+	"quiz-legend-error": "Sintaksna pogreška",
+	"quiz-correction": "Ocijeni kviz",
+	"quiz-score": "Vaš rezultat je $1 / $2",
+	"quiz-points": "$1 | {{PLURAL:$2|1 bod|$2 bodova}}",
+	"quiz-reset": "Poništi kviz"
+}

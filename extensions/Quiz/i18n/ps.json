@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ahmed-Najib-Biabani-Ibrahimkhel"
+		]
+	},
+	"quiz-shuffle": "پوښتنې ګډوډول",
+	"quiz-legend-correct": "سم",
+	"quiz-legend-incorrect": "ناسم",
+	"quiz-legend-unanswered": "بې ځوابه",
+	"quiz-correction": "سپارل",
+	"quiz-score": "ستاسې نومرې $1 / $2 دي",
+	"quiz-points": "$1 | {{PLURAL:$2|1 نمره|$2 نمرې}}",
+	"quiz-reset": "بياايښودل"
+}

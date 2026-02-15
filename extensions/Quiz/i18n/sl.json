@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dbc334"
+		]
+	},
+	"quiz-desc": "Omogoča ustvarjanje kvizov",
+	"quiz-added-points": "{{PLURAL:$1|Točka dodana|Točki dodani|Točke dodane}} za pravilen odgovor:",
+	"quiz-cutoff-points": "{{PLURAL:$1|Točka odbita|Točki odbiti|Točke odbite}} za napačen odgovor:",
+	"quiz-ignore-coef": "Prezri koeficiente vprašanj:",
+	"quiz-shuffle": "Premešaj vprašanja",
+	"quiz-legend-correct": "Pravilno",
+	"quiz-legend-incorrect": "Napačno",
+	"quiz-legend-unanswered": "Ni odgovorjeno",
+	"quiz-legend-error": "Skladenjska napaka",
+	"quiz-correction": "Pošlji",
+	"quiz-score": "Vaš rezultat je $1 / $2",
+	"quiz-points": "$1 | $2 {{PLURAL:$2|točka|točki|točke|točk}}",
+	"quiz-reset": "Ponastavi"
+}

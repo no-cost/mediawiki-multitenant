@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joetaras"
+		]
+	},
+	"quiz-desc": "Permette de ccrejà le quiz",
+	"quiz-added-points": "{{PLURAL:$1|Punde}} aggiunde pe 'na resposta corrette:",
+	"quiz-cutoff-points": "{{PLURAL:$1|Punde}} pe 'na resposta sbagliate:",
+	"quiz-ignore-coef": "No scè penzanne a le coefficiende de le domande:",
+	"quiz-shuffle": "Miscke le domande",
+	"quiz-legend-correct": "Esatte",
+	"quiz-legend-incorrect": "Sbagliate",
+	"quiz-legend-unanswered": "Nò resposte",
+	"quiz-legend-error": "Errore de sindasse",
+	"quiz-correction": "Conferme",
+	"quiz-score": "'U pundegge tue ète $1 / $2",
+	"quiz-points": "$1 | {{PLURAL:$2|1 punde|$2 punde}}",
+	"quiz-reset": "Azzera"
+}

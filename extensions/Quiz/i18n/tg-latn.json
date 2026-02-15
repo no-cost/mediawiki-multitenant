@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liangent"
+		]
+	},
+	"quiz-desc": "Eçodi ozmunhoro mumkin mesozad",
+	"quiz-ignore-coef": "Nodida giriftani zaribi savolho",
+	"quiz-shuffle": "Bar zadani savolho",
+	"quiz-legend-correct": "Durust",
+	"quiz-legend-incorrect": "Nodurust",
+	"quiz-legend-unanswered": "Posux doda naşud",
+	"quiz-legend-error": "Xatoi nahvī",
+	"quiz-correction": "Irsol",
+	"quiz-score": "Imtijozi şumo $1 az $2 ast",
+	"quiz-reset": "Az nav"
+}

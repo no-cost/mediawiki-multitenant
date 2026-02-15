@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Juanpabl"
+		]
+	},
+	"quiz-desc": "Premite a creyación de quizzes",
+	"quiz-added-points": "{{PLURAL:$1|Punto|Puntos}} por cada respuesta encertata",
+	"quiz-cutoff-points": "{{PLURAL:$1|Punto sacato|Puntos sacatos}} por cada respuesta entivocata:",
+	"quiz-ignore-coef": "Ignorar os puntos d'as preguntas",
+	"quiz-shuffle": "Desordenar as preguntas",
+	"quiz-legend-correct": "Encertatas",
+	"quiz-legend-incorrect": "Entivocatas",
+	"quiz-legend-unanswered": "No responditas",
+	"quiz-legend-error": "Error de sintaxi",
+	"quiz-correction": "Correchir",
+	"quiz-score": "A suya puntuación ye $1 / $2",
+	"quiz-points": "$1 | {{PLURAL:$2|1 punto|$2 puntos}}",
+	"quiz-reset": "Prencipiar"
+}

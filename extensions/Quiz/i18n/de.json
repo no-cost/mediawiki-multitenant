@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kghbln",
+			"Metalhead64",
+			"Raimond Spekking"
+		]
+	},
+	"quiz-desc": "Ermöglicht die Erstellung von Quizspielen",
+	"quiz-added-points": "{{PLURAL:$1|Pluspunkt|Pluspunkte}} für eine richtige Antwort:",
+	"quiz-cutoff-points": "{{PLURAL:$1|Punkt|Punkte}} für eine falsche Antwort:",
+	"quiz-ignore-coef": "Ignoriere die Fragen-Koeffizienten:",
+	"quiz-shuffle": "Fragen mischen",
+	"quiz-legend-correct": "Richtig",
+	"quiz-legend-incorrect": "Falsch",
+	"quiz-legend-unanswered": "Nicht beantwortet",
+	"quiz-legend-error": "Syntaxfehler",
+	"quiz-correction": "Speichern",
+	"quiz-score": "Punkte: $1 / $2",
+	"quiz-points": "$1 | {{PLURAL:$2|1 Punkt|$2 Punkte}}",
+	"quiz-reset": "Neustart"
+}

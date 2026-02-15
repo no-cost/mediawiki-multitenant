@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31",
+			"Esbardu",
+			"Xuacu"
+		]
+	},
+	"quiz-desc": "Permite la creación d'encuestes",
+	"quiz-added-points": "{{PLURAL:$1|Puntu añadíu|Puntos añadíos}} por rempuesta correuta:",
+	"quiz-cutoff-points": "{{PLURAL:$1|Puntu|Puntos}} por rempuesta incorreuta:",
+	"quiz-ignore-coef": "Inorar los coeficientes de les entrugues:",
+	"quiz-shuffle": "Revolver les entrugues",
+	"quiz-legend-correct": "Correuto",
+	"quiz-legend-incorrect": "Incorreuto",
+	"quiz-legend-unanswered": "Non respondida",
+	"quiz-legend-error": "Error de sintaxis",
+	"quiz-correction": "Unviar",
+	"quiz-score": "La to puntuación ye $1 / $2",
+	"quiz-points": "$1 | {{PLURAL:$2|1 puntu|$2 puntos}}",
+	"quiz-reset": "Reaniciar"
+}

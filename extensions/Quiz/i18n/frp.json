@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"ChrisPtDe"
+		]
+	},
+	"quiz-desc": "Pèrmèt la crèacion des quèstionèros.",
+	"quiz-added-points": "{{PLURAL:$1|Pouent apondu|Pouents apondus}} por una rèponsa justa",
+	"quiz-cutoff-points": "{{PLURAL:$1|Pouent enlevâ|Pouents enlevâs}} por una rèponsa fôssa",
+	"quiz-ignore-coef": "Ignorar los factors de les quèstions",
+	"quiz-shuffle": "Mècllar les quèstions",
+	"quiz-legend-correct": "Justo",
+	"quiz-legend-incorrect": "Fôx",
+	"quiz-legend-unanswered": "Pas rèpondu",
+	"quiz-legend-error": "Èrror de sintaxa",
+	"quiz-correction": "Sometre",
+	"quiz-score": "Voutra mârca est $1 / $2",
+	"quiz-points": "$1 | $2 pouent{{PLURAL:$2||s}}",
+	"quiz-reset": "Tornar inicialisar"
+}

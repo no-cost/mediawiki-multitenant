@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Huslåke",
+			"Jyllanj"
+		]
+	},
+	"quiz-desc": "Tillæde oprettels å quizze",
+	"quiz-added-points": "Punkt(er) tilføjer før æ korrekt answer",
+	"quiz-cutoff-points": "Punkt(er) subtraktet før æ fejl answer",
+	"quiz-ignore-coef": "Ignoriir spöyrsmolens koefficientje",
+	"quiz-shuffle": "Blånj spöyrsmolen",
+	"quiz-legend-correct": "Rett",
+	"quiz-legend-incorrect": "Fejl",
+	"quiz-legend-unanswered": "Ett swaren",
+	"quiz-legend-error": "Syntaksfejl",
+	"quiz-correction": "Senj",
+	"quiz-score": "Din puntjsum ä $1 å $2 muli",
+	"quiz-points": "$1 | $2 punkt(er)",
+	"quiz-reset": "Nullstell"
+}

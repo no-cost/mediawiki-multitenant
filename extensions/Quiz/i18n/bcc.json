@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mostafadaneshvar",
+			"Sultanselim baloch"
+		]
+	},
+	"quiz-desc": "اجازه دنت په شرکتن معما",
+	"quiz-added-points": "نمره په درستین جواب اضافه بوت",
+	"quiz-cutoff-points": "نمره په جواب غلظ کم بوت",
+	"quiz-ignore-coef": "ضریب سوالات مه دید",
+	"quiz-shuffle": "جوستان به هم ریچ",
+	"quiz-legend-correct": "راست",
+	"quiz-legend-incorrect": "اشتباه",
+	"quiz-legend-unanswered": "بی پسوء",
+	"quiz-legend-error": "حطا ساختار",
+	"quiz-correction": "دݔمی دئ",
+	"quiz-score": "شمی نمره $1 / $2 اینت",
+	"quiz-points": "$1 | $2 نکته(s)",
+	"quiz-reset": "برگردینگ"
+}

@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nayvik",
+			"VASANTH S.N."
+		]
+	},
+	"quiz-legend-correct": "ಸರಿ",
+	"quiz-legend-incorrect": "ತಪ್ಪು",
+	"quiz-correction": "ಒಪ್ಪಿಸು",
+	"quiz-reset": "ಮರುಹೊಂದಿಸು"
+}

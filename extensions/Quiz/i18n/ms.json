@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia",
+			"Aviator"
+		]
+	},
+	"quiz-desc": "Membolehkan penciptaan kuiz",
+	"quiz-added-points": "$1 mata ditambah untuk jawapan salah",
+	"quiz-cutoff-points": "$1 mata ditolak untuk jawapan salah",
+	"quiz-ignore-coef": "Abaikan pekali soalan",
+	"quiz-shuffle": "Papar soalan",
+	"quiz-legend-correct": "Betul",
+	"quiz-legend-incorrect": "Salah",
+	"quiz-legend-unanswered": "Tidak dijawab",
+	"quiz-legend-error": "Ralat sintaks",
+	"quiz-correction": "Serahkan",
+	"quiz-score": "Anda mendapat $1 daripada $2 mata",
+	"quiz-points": "$1 | $2 mata",
+	"quiz-reset": "Set semula"
+}

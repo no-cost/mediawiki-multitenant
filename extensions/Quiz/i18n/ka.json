@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"BRUTE",
+			"David1010",
+			"ITshnik",
+			"Malafaya",
+			"გიორგიმელა"
+		]
+	},
+	"quiz-desc": "იძლევა კითხვარების შექმნის საშუალებას",
+	"quiz-added-points": "{{PLURAL:$1|ქულა|ქულა}} დაემატა სწორი პასუხისათვის",
+	"quiz-cutoff-points": "(($1 ქულა)) ერთი არასწორი პასუხისთვის",
+	"quiz-ignore-coef": "შეკითხვების კოეფიციენტების იგნორირება",
+	"quiz-shuffle": "კითხვების არევა",
+	"quiz-legend-correct": "სწორი",
+	"quiz-legend-incorrect": "არასწორი",
+	"quiz-legend-unanswered": "პასუხი არ არის",
+	"quiz-legend-error": "სინტაქსური შეცდომა",
+	"quiz-correction": "გაგზავნა",
+	"quiz-score": "თქვენ შეაგროვეთ $1 {{PLURAL:$1|ქულა|ქულები}} $2-დან",
+	"quiz-points": "$1 | $2 ქულა",
+	"quiz-reset": "გაუქმება"
+}

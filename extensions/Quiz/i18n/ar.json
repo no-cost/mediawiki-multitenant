@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alnokta",
+			"Meno25",
+			"OsamaK",
+			"ديفيد"
+		]
+	},
+	"quiz-desc": "يسمح بإنشاء اختبارات",
+	"quiz-added-points": "أضيفت {{PLURAL:$1||نقطة|نقطتان|نقاط}} مقابل الإجابة الصحيحة",
+	"quiz-cutoff-points": "خصمت {{PLURAL:$1||نقطة|نقطتان|نقطاط}} لإجابة غير صحيحة",
+	"quiz-ignore-coef": "تجاهل معاملات الأسئلة:",
+	"quiz-shuffle": "أسئلة مختلطة",
+	"quiz-legend-correct": "صواب",
+	"quiz-legend-incorrect": "خطأ",
+	"quiz-legend-unanswered": "لم تتم الإجابة عليه",
+	"quiz-legend-error": "خطأ صياغة",
+	"quiz-correction": "إرسال",
+	"quiz-score": "نتيجتك هي $1 / $2",
+	"quiz-points": "$1 | {{PLURAL:$2||نقطة واحدة|نقطتان|$2 نقاط|$2 نقطة}}",
+	"quiz-reset": "إعادة ضبط"
+}

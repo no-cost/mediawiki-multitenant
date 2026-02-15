@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gaoxuewei",
+			"GuoPC",
+			"Hanyanbo98",
+			"Liuxinyu970226",
+			"PhiLiP"
+		]
+	},
+	"quiz-desc": "允许创建测验",
+	"quiz-added-points": "答对加上的{{PLURAL:$1|分数}}：",
+	"quiz-cutoff-points": "答错的{{PLURAL:$1|分数}}：",
+	"quiz-ignore-coef": "忽略问题的系数：",
+	"quiz-shuffle": "随机问题",
+	"quiz-legend-correct": "正确",
+	"quiz-legend-incorrect": "不正确",
+	"quiz-legend-unanswered": "未回答",
+	"quiz-legend-error": "语法错误",
+	"quiz-correction": "递交",
+	"quiz-score": "您的分数是 $1 / $2",
+	"quiz-points": "$1 | $2 {{PLURAL:$2|分}}",
+	"quiz-reset": "重置"
+}

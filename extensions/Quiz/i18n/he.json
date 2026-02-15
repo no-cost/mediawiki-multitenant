@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80",
+			"Guycn2",
+			"Rotem Liss"
+		]
+	},
+	"quiz-desc": "אפשרות ליצירת חידונים",
+	"quiz-added-points": "{{PLURAL:$1|הנקודה שנוספת|הנקודות שנוספות}} עבור כל תשובה נכונה:",
+	"quiz-cutoff-points": "{{PLURAL:$1|הנקודה שמורדת|הנקודות שמורדות}} עבור כל תשובה שגויה:",
+	"quiz-ignore-coef": "התעלמות ממקדמי שאלות:",
+	"quiz-shuffle": "סדר משתנה של השאלות",
+	"quiz-legend-correct": "נכון",
+	"quiz-legend-incorrect": "שגוי",
+	"quiz-legend-unanswered": "לא סומנה תשובה",
+	"quiz-legend-error": "שגיאת תחביר",
+	"quiz-correction": "שליחה",
+	"quiz-score": "הציון שלך הוא $1 / $2",
+	"quiz-points": "$1 | {{PLURAL:$2|נקודה אחת|$2 נקודות}}",
+	"quiz-reset": "איפוס"
+}

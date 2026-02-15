@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aotake",
+			"JtFuruhata",
+			"Shirayuki",
+			"ネイ"
+		]
+	},
+	"quiz-desc": "クイズを作成できるようにする",
+	"quiz-added-points": "正解により{{PLURAL:$1|点}}追加:",
+	"quiz-cutoff-points": "不正解に{{PLURAL:$1|点}}:",
+	"quiz-ignore-coef": "問題ごとの倍率を無視:",
+	"quiz-shuffle": "問題をシャッフル",
+	"quiz-legend-correct": "正解",
+	"quiz-legend-incorrect": "不正解",
+	"quiz-legend-unanswered": "無回答",
+	"quiz-legend-error": "構文エラー",
+	"quiz-correction": "採点",
+	"quiz-score": "得点: $1点 ($2点満点)",
+	"quiz-points": "$1 | $2{{PLURAL:$2|点}}",
+	"quiz-reset": "リセット"
+}

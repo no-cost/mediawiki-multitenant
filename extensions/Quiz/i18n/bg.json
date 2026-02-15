@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Borislav",
+			"DCLXVI",
+			"Spiritia",
+			"StanProg"
+		]
+	},
+	"quiz-desc": "Позволява създаването на анкети",
+	"quiz-added-points": "{{PLURAL:$1|Точка, добавяна|Точки, добавяни}} за правилен отговор:",
+	"quiz-cutoff-points": "{{PLURAL:$1|Точка, отнемана|Точки, отнемани}} за грешен отговор:",
+	"quiz-ignore-coef": "Пренебрегване на коефициентите на въпросите:",
+	"quiz-shuffle": "Разбъркване на въпросите",
+	"quiz-legend-correct": "Правилен",
+	"quiz-legend-incorrect": "Грешен",
+	"quiz-legend-unanswered": "Без отговор",
+	"quiz-legend-error": "Синтактична грешка",
+	"quiz-correction": "Изпращане",
+	"quiz-score": "Вашият резултат е $1 / $2",
+	"quiz-points": "$1 | {{PLURAL:$2|една точка|$2 точки}}",
+	"quiz-reset": "Отмяна"
+}

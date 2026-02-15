@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"George Animal"
+		]
+	},
+	"quiz-legend-correct": "Rast",
+	"quiz-legend-incorrect": "Nerast",
+	"quiz-correction": "Tomar bike",
+	"quiz-score": "Skora te  $1 / $2 e"
+}

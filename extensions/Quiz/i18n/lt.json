@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eitvys200",
+			"Manvydasz",
+			"Matasg",
+			"Nokeoo",
+			"Vogone"
+		]
+	},
+	"quiz-desc": "Leidžia kurti klausimynus",
+	"quiz-added-points": "{{PLURAL:$1|Taškas|Taškai}} pridėti už teisingą atsakymą:",
+	"quiz-cutoff-points": "{{PLURAL:$1|Taškas|Taškai|Taškų}} už neteisingą atsakymą:",
+	"quiz-ignore-coef": "Nepaisyti klausimų koeficientų:",
+	"quiz-shuffle": "Maišyti klausimus",
+	"quiz-legend-correct": "Teisingai",
+	"quiz-legend-incorrect": "Neteisingai",
+	"quiz-legend-unanswered": "Neatsakyta",
+	"quiz-legend-error": "Sintaksės klaida",
+	"quiz-correction": "Pateikti",
+	"quiz-score": "Jūsų surinkti taškai yra $1 iš $2",
+	"quiz-points": "$1 | $2 {{PLURAL:$2|taškas|taškai|taškų}}",
+	"quiz-reset": "Valyti"
+}

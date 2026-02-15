@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Consta",
+			"NikosLikomitros",
+			"Nikosgranturismogt",
+			"Protnet",
+			"ZaDiak"
+		]
+	},
+	"quiz-desc": "Επιτρέπει τη δημιουργία κουίζ",
+	"quiz-added-points": "{{PLURAL:$1|Πόντος|Πόντοι}} που προστίθενται για σωστή απάντηση:",
+	"quiz-cutoff-points": "{{PLURAL:$1|Πόντος|Πόντοι}} για λανθασμένη απάντηση:",
+	"quiz-ignore-coef": "Αγνόηση συντελεστών ερωτήσεων:",
+	"quiz-shuffle": "Ανακάτεμα ερωτήσεων",
+	"quiz-legend-correct": "Σωστό",
+	"quiz-legend-incorrect": "Λάθος",
+	"quiz-legend-unanswered": "Δεν απαντήθηκε",
+	"quiz-legend-error": "Συντακτικό λάθος",
+	"quiz-correction": "Υποβολή",
+	"quiz-score": "Η βαθμολογία σας είναι $1 / $2",
+	"quiz-points": "$1 | {{PLURAL:$2|1 βαθμό|$2 βαθμούς}}",
+	"quiz-reset": "Επαναφορά"
+}

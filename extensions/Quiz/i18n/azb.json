@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amir a57",
+			"Mousa"
+		]
+	},
+	"quiz-legend-correct": "دوغرو",
+	"quiz-legend-incorrect": "یانلیش",
+	"quiz-legend-unanswered": "جوابسیز",
+	"quiz-correction": "گؤندر",
+	"quiz-reset": "قور"
+}

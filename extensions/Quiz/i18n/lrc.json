@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mogoeilor"
+		]
+	},
+	"quiz-shuffle": "پرسایشتیا قر قاطی بیه",
+	"quiz-legend-correct": "درست",
+	"quiz-legend-incorrect": "اشتوا",
+	"quiz-legend-unanswered": "جواو ندیئه",
+	"quiz-legend-error": "خطا دستوری",
+	"quiz-correction": "كل كردن",
+	"quiz-score": "امتیاز شما $2/$1 ئه",
+	"quiz-reset": "د نو شرو كردن"
+}

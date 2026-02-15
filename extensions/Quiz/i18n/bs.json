@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"CERminator",
+			"Srdjan m",
+			"Srđan"
+		]
+	},
+	"quiz-desc": "Omogućuje pravljenje kvizova",
+	"quiz-added-points": "{{PLURAL:$1|Bod dodan|Boda dodana|Bodova dodano}} za tačan odgovor:",
+	"quiz-cutoff-points": "{{PLURAL:$1|Bod|Boda|Bodova}} za pogrešan odgovor:",
+	"quiz-ignore-coef": "Zanemari koeficijente pitanja:",
+	"quiz-shuffle": "Izmiješaj pitanja",
+	"quiz-legend-correct": "Tačno",
+	"quiz-legend-incorrect": "Pogrešno",
+	"quiz-legend-unanswered": "Nije odgovoreno",
+	"quiz-legend-error": "Sintaksna greška",
+	"quiz-correction": "Pošalji",
+	"quiz-score": "Vaš rezultat je $1 / $2",
+	"quiz-points": "$1 | {{PLURAL:$2|1 bod|$2 boda|$2 bodova}}",
+	"quiz-reset": "Očisti"
+}

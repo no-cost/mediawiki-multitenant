@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Huji",
+			"Ladsgroup"
+		]
+	},
+	"quiz-desc": "ایجاد آزمون را ممکن می‌سازد",
+	"quiz-added-points": "{{PLURAL:$1|امتیاز|امتیاز}} اضافه شده برای هر پاسخ درست:",
+	"quiz-cutoff-points": "{{PLURAL:$1|امتیاز|امتیاز}} برای هر پاسخ نادرست:",
+	"quiz-ignore-coef": "نادیده گرفتن ضریب سوال‌ها:",
+	"quiz-shuffle": "برزدن سوال‌ها",
+	"quiz-legend-correct": "درست",
+	"quiz-legend-incorrect": "نادرست",
+	"quiz-legend-unanswered": "پاسخ داده نشده",
+	"quiz-legend-error": "خطای نحوی",
+	"quiz-correction": "ارسال",
+	"quiz-score": "امتیاز شما $1 از $2 است",
+	"quiz-points": "$1 | {{PLURAL:$2|۱ امتیاز|$2 امتیاز}}",
+	"quiz-reset": "از نو"
+}

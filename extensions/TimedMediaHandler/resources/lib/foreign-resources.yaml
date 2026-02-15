@@ -1,0 +1,24 @@
+video.js:
+  license: Apache-2.0
+  homepage: https://videojs.com
+  authors: Brightcove, Inc. <https://www.brightcove.com/>
+  version: 8.21.1
+  type: tar
+  src: https://registry.npmjs.org/video.js/-/video.js-8.21.1.tgz
+  integrity: sha512-Lc7uSccRcR9njd+jMO8gPX+QLPmYXWMNbgrIDcYW62N2LXc0A9ExZKQLZhmlb6YZDdziwyNdsY51VK6K/3a5gg==
+  dest:
+    package/LICENSE:
+    package/README.md:
+    package/dist/alt/video.core.min.js: alt
+    package/dist/lang/*.js: lang
+    package/dist/video-js.css:
+ogv.js:
+  license: MIT
+  homepage: https://github.com/bvibber/ogv.js#readme
+  authors: Brooke Vibber <bvibber@pobox.com>
+  version: 1.9.0
+  type: tar
+  src: https://registry.npmjs.org/ogv/-/ogv-1.9.0.tgz
+  integrity: sha512-Spjbi8spzaY5PCn7JDQm6HAP8XDRuOCMG/oCQy59IPFe4A0oXR0dDNPRpc6oj8gIjPgs5pL7hpE9prf27qztFw==
+  dest:
+    package/dist/*:

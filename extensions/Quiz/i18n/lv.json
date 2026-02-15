@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dark Eagle",
+			"Xil",
+			"Yyy"
+		]
+	},
+	"quiz-desc": "Ļauj veidot anketas",
+	"quiz-added-points": "{{PLURAL:$1|Punkti|Punkts|Punkti}} par pareizu atbildi",
+	"quiz-cutoff-points": "{{PLURAL:$1|Punkti|Punkts|Punkti}}, kas tiek atņemti par nepareizu atbildi",
+	"quiz-ignore-coef": "Neņemt vērā jautājumu koeficientus",
+	"quiz-shuffle": "Sajaukt jautājumus",
+	"quiz-legend-correct": "Pareizi",
+	"quiz-legend-incorrect": "Nepareizi",
+	"quiz-legend-unanswered": "Nav atbildēts",
+	"quiz-legend-error": "Sintakses kļūda",
+	"quiz-correction": "Sūtīt",
+	"quiz-score": "Tavs rezultāts ir $1 / $2",
+	"quiz-points": "$1 | {{PLURAL:$2|$2 punkti|1 punkts|$2 punkti}}",
+	"quiz-reset": "Notīrīt"
+}

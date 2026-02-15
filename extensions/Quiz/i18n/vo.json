@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Malafaya",
+			"Smeira"
+		]
+	},
+	"quiz-legend-correct": "Verätik",
+	"quiz-legend-incorrect": "Neverätik",
+	"quiz-legend-unanswered": "No pegesagon",
+	"quiz-legend-error": "Süntagapöl",
+	"quiz-correction": "Sedön",
+	"quiz-reset": "Geükön ad stad kösömik"
+}

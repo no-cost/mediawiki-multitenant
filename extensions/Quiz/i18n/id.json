@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bennylin",
+			"Daud I.F. Argana",
+			"Irwangatot",
+			"IvanLanin",
+			"Rex"
+		]
+	},
+	"quiz-desc": "Menyediakan fasilitas pembuatan kuis",
+	"quiz-added-points": "Penambahan {{PLURAL:$1|angka|angka}} untuk jawaban yang tepat:",
+	"quiz-cutoff-points": "Pengurangan {{PLURAL:$1|angka|angka}} untuk jawaban yang salah:",
+	"quiz-ignore-coef": "Abaikan koefisien pertanyaan:",
+	"quiz-shuffle": "Mengacak pertanyaan",
+	"quiz-legend-correct": "Benar",
+	"quiz-legend-incorrect": "Salah",
+	"quiz-legend-unanswered": "Tak dijawab",
+	"quiz-legend-error": "Kesalahan sintaks",
+	"quiz-correction": "Kirim",
+	"quiz-score": "Skor Anda adalah $1 / $2",
+	"quiz-points": "$1 | {{PLURAL:$2|1 poin|$2 poin}}",
+	"quiz-reset": "Reset"
+}

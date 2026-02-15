@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Imre",
+			"פוילישער"
+		]
+	},
+	"quiz-desc": "דערלויבט שאפן אויספרעגן",
+	"quiz-legend-correct": "ריכטיק",
+	"quiz-legend-incorrect": "פֿאַלש",
+	"quiz-legend-unanswered": "נישט געענטפֿערט",
+	"quiz-legend-error": "סינטאקס גרייז",
+	"quiz-correction": "אײַנגעבן",
+	"quiz-score": "פונקטן:$1 / $2",
+	"quiz-points": "$1 | {{PLURAL:$2|1 פונקט|$2 פונקטן}}",
+	"quiz-reset": "צוריקשטעלן"
+}

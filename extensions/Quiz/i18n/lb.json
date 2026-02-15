@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby",
+			"Volvox"
+		]
+	},
+	"quiz-desc": "Erméiglecht et Quizzer ze maachen",
+	"quiz-added-points": "{{PLURAL:$1|Punkt|Punkten}} dobäi fir eng richteg Äntwert:",
+	"quiz-cutoff-points": "{{PLURAL:$1|Punkt|Punkte}} fir eng net richteg Äntwert:",
+	"quiz-ignore-coef": "Koeffizient vun der Fro ignoréieren:",
+	"quiz-shuffle": "Froe meschen",
+	"quiz-legend-correct": "Richteg",
+	"quiz-legend-incorrect": "Falsch",
+	"quiz-legend-unanswered": "Net beäntwert",
+	"quiz-legend-error": "Syntaxfeeler",
+	"quiz-correction": "Verbesserung",
+	"quiz-score": "Punkten: $1 / $2",
+	"quiz-points": "$1 | {{PLURAL:$2|1 Punkt|$2 Punkten}}",
+	"quiz-reset": "Zerécksetzen"
+}

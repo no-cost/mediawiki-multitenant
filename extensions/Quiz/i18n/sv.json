@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Boivie",
+			"Lejonel",
+			"M.M.S.",
+			"Najami",
+			"WikiPhoenix"
+		]
+	},
+	"quiz-desc": "Ger möjlighet att skapa frågeformulär",
+	"quiz-added-points": "{{PLURAL:$1|Poäng}} för rätt svar:",
+	"quiz-cutoff-points": "{{PLURAL:$1|Poängavdrag}} för ett felaktigt svar:",
+	"quiz-ignore-coef": "Använd inte frågornas koefficienter",
+	"quiz-shuffle": "Blanda om frågorna",
+	"quiz-legend-correct": "Rätt",
+	"quiz-legend-incorrect": "Fel",
+	"quiz-legend-unanswered": "Besvarades ej",
+	"quiz-legend-error": "Syntaxfel",
+	"quiz-correction": "Skicka",
+	"quiz-score": "Din poäng är $1 av $2",
+	"quiz-points": "$1 | {{PLURAL:$2|1 poäng|$2 poäng}}",
+	"quiz-reset": "Återställ"
+}

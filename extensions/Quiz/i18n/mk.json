@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"quiz-desc": "Овозможува создавање на квизови",
+	"quiz-added-points": "добивате {{PLURAL:$1|бод|бода}} за точен одговор:",
+	"quiz-cutoff-points": "{{PLURAL:$1|Бод|Бода}} за погрешен одговор:",
+	"quiz-ignore-coef": "Занемари ги коефициентите на прашањата:",
+	"quiz-shuffle": "Измешај ги прашањата",
+	"quiz-legend-correct": "Точно",
+	"quiz-legend-incorrect": "Погрешно",
+	"quiz-legend-unanswered": "Неодговорено",
+	"quiz-legend-error": "синтаксна грешка",
+	"quiz-correction": "Поднеси",
+	"quiz-score": "Вашето бодовно салдо изнесува $1 / $2",
+	"quiz-points": "$1 | {{PLURAL:$2|1 бод|$2 бода}}",
+	"quiz-reset": "Врати одново"
+}
