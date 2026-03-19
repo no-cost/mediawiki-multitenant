@@ -125,12 +125,10 @@ $wgDiff3 = '/usr/bin/diff3';
 ## Default skin: you can change the default skin. Use the internal symbolic
 ## names, e.g. 'vector' or 'monobook':
 $wgDefaultSkin = $mw['skin'] ?? 'vector-2022';
-wfLoadSkin('Vector');
+require_once __DIR__ . '/modules.php';
 
 # End of automatically generated settings.
 # Add more configuration options below.
-
-require_once __DIR__ . '/modules.php';
 
 # article
 $wgArticlePath = '/$1';
